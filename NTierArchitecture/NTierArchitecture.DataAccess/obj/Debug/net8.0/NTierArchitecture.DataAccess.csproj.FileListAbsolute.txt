@@ -1,0 +1,17 @@
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.DataAccess\bin\Debug\net8.0\NTierArchitecture.DataAccess.deps.json
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.DataAccess\bin\Debug\net8.0\NTierArchitecture.DataAccess.runtimeconfig.json
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.DataAccess\bin\Debug\net8.0\NTierArchitecture.DataAccess.dll
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.DataAccess\bin\Debug\net8.0\NTierArchitecture.DataAccess.pdb
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.DataAccess\obj\Debug\net8.0\NTierArchitecture.DataAccess.csproj.AssemblyReference.cache
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.DataAccess\obj\Debug\net8.0\NTierArchitecture.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.DataAccess\obj\Debug\net8.0\NTierArchitecture.DataAccess.AssemblyInfoInputs.cache
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.DataAccess\obj\Debug\net8.0\NTierArchitecture.DataAccess.AssemblyInfo.cs
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.DataAccess\obj\Debug\net8.0\NTierArchitecture.DataAccess.csproj.CoreCompileInputs.cache
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.DataAccess\obj\Debug\net8.0\NTierArchitecture.DataAccess.csproj.CopyComplete
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.DataAccess\obj\Debug\net8.0\NTierArchitecture.DataAccess.dll
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.DataAccess\obj\Debug\net8.0\refint\NTierArchitecture.DataAccess.dll
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.DataAccess\obj\Debug\net8.0\NTierArchitecture.DataAccess.pdb
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.DataAccess\obj\Debug\net8.0\NTierArchitecture.DataAccess.genruntimeconfig.cache
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.DataAccess\obj\Debug\net8.0\ref\NTierArchitecture.DataAccess.dll
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.DataAccess\bin\Debug\net8.0\NTierArchicture.Entities.dll
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.DataAccess\bin\Debug\net8.0\NTierArchicture.Entities.pdb

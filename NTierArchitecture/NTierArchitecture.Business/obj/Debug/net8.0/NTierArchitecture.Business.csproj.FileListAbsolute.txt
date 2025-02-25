@@ -1,0 +1,17 @@
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.csproj.AssemblyReference.cache
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.AssemblyInfoInputs.cache
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.AssemblyInfo.cs
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.csproj.CoreCompileInputs.cache
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchitecture.Business.deps.json
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchitecture.Business.dll
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchitecture.Business.pdb
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchitecture.DataAccess.dll
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchitecture.DataAccess.pdb
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.csproj.CopyComplete
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.dll
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\refint\NTierArchitecture.Business.dll
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.pdb
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\ref\NTierArchitecture.Business.dll
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchicture.Entities.dll
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchicture.Entities.pdb

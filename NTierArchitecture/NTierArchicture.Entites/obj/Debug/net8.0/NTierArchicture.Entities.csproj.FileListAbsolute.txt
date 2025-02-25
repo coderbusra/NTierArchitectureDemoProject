@@ -1,0 +1,12 @@
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchicture.Entites\bin\Debug\net8.0\NTierArchicture.Entities.deps.json
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchicture.Entites\bin\Debug\net8.0\NTierArchicture.Entities.dll
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchicture.Entites\bin\Debug\net8.0\NTierArchicture.Entities.pdb
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchicture.Entites\obj\Debug\net8.0\NTierArchicture.Entities.csproj.AssemblyReference.cache
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchicture.Entites\obj\Debug\net8.0\NTierArchicture.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchicture.Entites\obj\Debug\net8.0\NTierArchicture.Entities.AssemblyInfoInputs.cache
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchicture.Entites\obj\Debug\net8.0\NTierArchicture.Entities.AssemblyInfo.cs
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchicture.Entites\obj\Debug\net8.0\NTierArchicture.Entities.csproj.CoreCompileInputs.cache
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchicture.Entites\obj\Debug\net8.0\NTierArchicture.Entities.dll
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchicture.Entites\obj\Debug\net8.0\refint\NTierArchicture.Entities.dll
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchicture.Entites\obj\Debug\net8.0\NTierArchicture.Entities.pdb
+D:\source-\C#TanerSaydamUdemy\NTierArchitecture\NTierArchicture.Entites\obj\Debug\net8.0\ref\NTierArchicture.Entities.dll
